@@ -3,7 +3,7 @@
     {
       "src": "scripts/compile-web.sh",
       "use": "@vercel/static-build",
-      "config": { "distDir": "dist/web" }
+      "config": { "distDir": "dist" }
     }
   ]
 }
