@@ -1,0 +1,15 @@
+{
+  "short_name": "Projectile to Height",
+  "name": "Projectile to Height",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "white",
+  "background_color": "white"
+}
